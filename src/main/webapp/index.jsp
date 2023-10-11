@@ -8,7 +8,7 @@
 	<h2 style="color: orange; font-size: 40px;" align="center">Adoni, Kurnool Dist</h2>
 	<h2 style="color: indigo; font-size: 40px;" align="center">AP</h2>
 	<h2 style="color: violet; font-size: 40px;" align="center">21/219-19</h2>
-	<h2 style="color: sky-blue; font-size: 40px;" align="center">SKD Colony Zero Road/h2>
+	<h2 style="color: sky-blue; font-size: 40px;" align="center">SKD Colony Zero Road</h2>
 	<h1 style="color: black; font-size: 40px;" align="center">ESWARI    😊😊😊😊😊😊😊😊</h1>
 
 	
